@@ -2,7 +2,7 @@ package br.com.dio;
 
 import br.com.dio.Model.Animal;
 
-public class PrimeiroProjetoInt {
+public class PrimeiroProjeto {
     public static void main(String[]arg){
 
         Animal animal = new Animal();
